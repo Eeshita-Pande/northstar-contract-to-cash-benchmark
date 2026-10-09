@@ -1,0 +1,8 @@
+item_id,receipt_reference,invoice_or_instruction,description,amount_usd
+R-001,RV-0331,V-2030-02,Northstar metered service,180000
+R-002,RV-0331B,V-2030-02,Northstar metered service,90000
+R-003,RV-0430,V-2030-02,Northstar metered service,60000
+R-004,RV-0531,V-2030-02,Northstar metered service,30000
+R-005,RV-0531,V-2030-04,Northstar metered service,180000
+R-006,RV-0531,V-2030-07,Service prepayment under R3,180000
+R-007,RV-0531,GC-2030-117,GridCo purchase under custody instruction,639000

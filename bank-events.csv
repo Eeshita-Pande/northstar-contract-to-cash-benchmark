@@ -1,0 +1,10 @@
+export_id,bank_event_id,account,posting_date,value_date,reference,amount_usd,narrative
+export_04,B-0301,Operating,2030-03-31,2030-03-31,RV-0331,180000,Vector receipt
+export_04,B-0302,Operating,2030-04-01,2030-03-31,RV-0331,-180000,Returned receipt
+export_04,B-0303,Operating,2030-04-01,2030-03-31,RV-0331B,90000,Vector receipt
+export_05,B-0401,Operating,2030-05-01,2030-04-30,RV-0430,60000,Vector receipt
+export_06,B-0501,Operating,2030-06-01,2030-05-31,RV-0531,1029000,Vector consolidated remittance
+export_06,B-0502,Operating,2030-05-31,2030-05-31,TR-0531,-500000,Treasury transfer
+export_06,B-0503,Treasury,2030-06-01,2030-05-31,TR-0531,500000,Treasury transfer
+export_07,B-0501,Operating,2030-06-01,2030-05-31,RV-0531,1029000,Vector consolidated remittance
+export_07,B-0601,Operating,2030-06-16,2030-06-15,AG-0615,-639000,GridCo remittance
